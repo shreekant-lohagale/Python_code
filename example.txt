@@ -1,0 +1,13 @@
+File content after writing:
+This is a sample text.
+We will perform file operations like read, write, append, and copy.
+
+File content after appending:
+This is a sample text.
+We will perform file operations like read, write, append, and copy.
+Appended text: File operations are useful in many scenarios.
+
+Content of the copied file:
+This is a sample text.
+We will perform file operations like read, write, append, and copy.
+Appended text: File operations are useful in many scenarios.
